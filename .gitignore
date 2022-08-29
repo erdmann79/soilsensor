@@ -1,5 +1,12 @@
 # PlatformIO
 ############
+<<<<<<< HEAD
+=======
+.pioenvs
+.piolibdeps
+.clang_complete
+.gcc-flags.json
+>>>>>>> b82ad26 (soilsensor1 initial commit)
 .pio
 include/secrets.h
 
